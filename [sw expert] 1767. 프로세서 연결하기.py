@@ -5,4 +5,4 @@ for test_case in range(1, T + 1):
     count = int(input())
     core_array = [list(map(int, input().split())) for rows in range(count)]
     
-    
+    #미완성
